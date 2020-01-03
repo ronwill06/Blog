@@ -8,8 +8,8 @@ googleAnalytics = ""
 [params]
     author = "Rondale Williams"
     description = "Dallas Cowboys Statistical Analysis"
-    githubUsername = "#"
-    accent = ""
+    githubUsername = "ronwill06"
+    accent = "blue"
     showBorder = true
     backgroundColor = "white"
     font = "Francois One" # should match the name on Google Fonts!
